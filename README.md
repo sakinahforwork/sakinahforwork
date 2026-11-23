@@ -44,7 +44,7 @@ My home lab is built on a dedicated virtualization host to simulate enterprise I
   
 ---
 
-### 📚 My Favorites Additional Learning References
+### 📚 Favorite Learning References
 
 * **Cisco Network Academy** *(https://www.netacad.com/)*
 * **Sys Desks** *(https://sysdesks.com/)*
