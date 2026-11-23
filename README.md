@@ -26,13 +26,14 @@ That journey led me to IT support, combining real-world problem-solving and clie
 
 ---
 
-### 🖥️ Homelab Environment & Featured Projects
+## 🧰 Homelab Environment
 
-I maintain a self-hosted virtualized lab in **Hyper-V** and **Cisco Packet Tracer** to simulate enterprise networks and document troubleshooting workflows:
+My home lab is built on a dedicated virtualization host to simulate enterprise IT environments, test Windows/Linux administration workflows, and practice network security and traffic analysis.
 
-* **Windows Server & Active Directory Lab:** Deployed a domain controller with AD DS, configured Organizational Units (OUs), joined Windows client machines, and implemented Group Policy Objects.
-* **Enterprise DNS & Subnetting:** Configured Active Directory-Integrated DNS (ADIDNS), Forward/Reverse Lookup Zones with PTR records, and segmented IPv4 subnets.
-* **Linux & Cross-Platform Networking:** Configured Ubuntu Server VMs alongside Windows hosts to practice network diagnostics, SSH access, and service verification.
+- **Host Hardware:** Lenovo ThinkPad T14 Gen 1 (AMD Ryzen 5 PRO, 16 GB RAM, 512 GB SSD)
+- **Virtualization:** Microsoft Hyper-V (Type-1 Hypervisor)
+- **Server & Desktop OS:** Windows Server 2025, Windows 11, Ubuntu Server 26.04.1 LTS, Ubuntu 26.04 Desktop
+- **Networking & Security Tools:** pfSense (virtual firewall/router), Cisco Packet Tracer, Wireshark
 
 ---
 
@@ -58,6 +59,6 @@ I maintain a self-hosted virtualized lab in **Hyper-V** and **Cisco Packet Trace
 
 ---
 
-### 💻 HOME LAB PROJECT LIST
+### 💻 Featured Homelab Projects
 
 1. [Windows Server 2025 and Administrator](https://github.com/sakinahforwork/Windows-Server-2025-and-Administration) - Active Directory, DNS, DHCP, and Group Policy lab documentation.
