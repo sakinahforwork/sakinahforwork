@@ -33,18 +33,6 @@ That journey led me to IT support, where I combine real-world problem-solving an
   
 ---
 
-## 📚 Favorite Learning References
-
-* **Cisco Network Academy** *(https://www.netacad.com/)*
-* **Sys Desks** *(https://sysdesks.com/)*
-* **ThisIsanITSupportGroup** *(https://thisisanitsupportgroup.com/)*
-* **IBM SkillsBuild** *(https://skillsbuild.org/)*
-* **Jeremy's IT Lab** *(https://www.youtube.com/@JeremysITLab)*
-* **East Charmer** *(https://www.youtube.com/@EastCharmer)*
-* **NetworkChuck** *(https://www.youtube.com/@NetworkChuck)*
-
----
-
 ## 🧰 Tools & Platforms
 
 ![Windows](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -75,5 +63,16 @@ My home lab is built on a dedicated virtualization host to simulate enterprise I
 - **Virtualization:** Microsoft Hyper-V (Type-1 Hypervisor)
 - **Server & Desktop OS:** Windows Server 2025, Windows 11, Ubuntu Server 26.04.1 LTS, Ubuntu 26.04 Desktop
 - **Networking & Security Tools:** pfSense (virtual firewall/router), Cisco Packet Tracer, Wireshark
+
+---
+## 📚 Favorite Learning References
+
+* **Cisco Network Academy** *(https://www.netacad.com/)*
+* **Sys Desks** *(https://sysdesks.com/)*
+* **ThisIsanITSupportGroup** *(https://thisisanitsupportgroup.com/)*
+* **IBM SkillsBuild** *(https://skillsbuild.org/)*
+* **Jeremy's IT Lab** *(https://www.youtube.com/@JeremysITLab)*
+* **East Charmer** *(https://www.youtube.com/@EastCharmer)*
+* **NetworkChuck** *(https://www.youtube.com/@NetworkChuck)*
 
 ---
