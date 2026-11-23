@@ -26,17 +26,6 @@ That journey led me to IT support, where I combine real-world problem-solving an
 
 ---
 
-## 🧰 Homelab Environment
-
-My home lab is built on a dedicated virtualization host to simulate enterprise IT environments, test Windows/Linux administration workflows, and practice network security and traffic analysis.
-
-- **Host Hardware:** Lenovo ThinkPad T14 Gen 1 (AMD Ryzen 5 PRO, 16 GB RAM, 512 GB SSD)
-- **Virtualization:** Microsoft Hyper-V (Type-1 Hypervisor)
-- **Server & Desktop OS:** Windows Server 2025, Windows 11, Ubuntu Server 26.04.1 LTS, Ubuntu 26.04 Desktop
-- **Networking & Security Tools:** pfSense (virtual firewall/router), Cisco Packet Tracer, Wireshark
-
----
-
 ### 📜 Education & Certifications
 
 * **Bachelor degree of Computer Science (Networking) with Honours - Universiti Teknikal Malaysia Melaka (UTeM)(2019)**
@@ -70,6 +59,20 @@ My home lab is built on a dedicated virtualization host to simulate enterprise I
 
 ---
 
-### 💻 Featured Homelab Projects
+## 🧰 Homelab Environment
 
-1. [Windows Server 2025 and Administration](https://github.com/sakinahforwork/Windows-Server-2025-and-Administration) - Active Directory, DNS, DHCP, and Group Policy lab documentation.
+My home lab is built on a dedicated virtualization host to simulate enterprise IT environments, test Windows/Linux administration workflows, and practice network security and traffic analysis.
+
+- **Host Hardware:** Lenovo ThinkPad T14 Gen 1 (AMD Ryzen 5 PRO, 16 GB RAM, 512 GB SSD)
+- **Virtualization:** Microsoft Hyper-V (Type-1 Hypervisor)
+- **Server & Desktop OS:** Windows Server 2025, Windows 11, Ubuntu Server 26.04.1 LTS, Ubuntu 26.04 Desktop
+- **Networking & Security Tools:** pfSense (virtual firewall/router), Cisco Packet Tracer, Wireshark
+
+---
+
+### 💻 Homelab Projects
+
+1. [Windows Server 2025 and Administration](https://github.com/sakinahforwork/Windows-Server-2025-and-Administration) - Active Directory, DNS, DHCP, and Group Policy lab documentation. 🪟
+2. Cisco Packet Tracer & Basic Networking 🌐
+3. Linux (Ubuntu Server) 🖥️
+4. Python Mini Project 🐍
