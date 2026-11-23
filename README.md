@@ -58,6 +58,6 @@ I maintain a self-hosted virtualized lab in **Hyper-V** and **Cisco Packet Trace
 
 ---
 
-###  HOME LAB PROJECT LIST
+### 💻 HOME LAB PROJECT LIST
 
-1. https://github.com/sakinahforwork/Windows-Server-2025-and-Administration
+1. [Windows Server 2025 and Administrator](https://github.com/sakinahforwork/Windows-Server-2025-and-Administration) - Active Directory, DNS, DHCP, and Group Policy lab documentation.
