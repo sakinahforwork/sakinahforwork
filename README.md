@@ -50,6 +50,9 @@ My home lab is built on a dedicated virtualization host to simulate enterprise I
 * **Sys Desks** *(https://sysdesks.com/)*
 * **ThisIsanITSupportGroup** *(https://thisisanitsupportgroup.com/)*
 * **IBM SkillsBuild** *(https://skillsbuild.org/)*
+* **Jeremy's IT Lab *(https://www.youtube.com/@JeremysITLab)*
+* **East Charmer *(https://www.youtube.com/@EastCharmer)*
+* **NetworkChuck *(https://www.youtube.com/@NetworkChuck)*
 
 ---
 
