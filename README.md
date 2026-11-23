@@ -61,4 +61,4 @@ My home lab is built on a dedicated virtualization host to simulate enterprise I
 
 ### 💻 Featured Homelab Projects
 
-1. [Windows Server 2025 and Administrator](https://github.com/sakinahforwork/Windows-Server-2025-and-Administration) - Active Directory, DNS, DHCP, and Group Policy lab documentation.
+1. [Windows Server 2025 and Administration](https://github.com/sakinahforwork/Windows-Server-2025-and-Administration) - Active Directory, DNS, DHCP, and Group Policy lab documentation.
