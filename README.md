@@ -1,7 +1,5 @@
 ## Hi, I'm Sakinah 👋
 
-**About Me** :
-
 I'm a Computer Science (Networking) graduate returning to the IT field. Over 7 years, I spent my free time exploring web, mobile, and game development. Eventually discovering my strongest fit in IT infrastructure and systems administration.
 
 That journey led me to IT support, where I combine real-world problem-solving and client communication with hands-on troubleshooting. I'm currently building enterprise readiness through Windows Server, Active Directory, and Linux homelabs alongside Google IT Support and Cisco Networking Academy training.
@@ -9,7 +7,6 @@ That journey led me to IT support, where I combine real-world problem-solving an
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20(Klang%20Valley%20or%20Kulim,Kedah)-2ea44f?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/sakinah-tajuddin-b821a9271/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sakinahforwork@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/sakinah-tajuddin.89224ed3/badges/credly)
 
 ---
 
