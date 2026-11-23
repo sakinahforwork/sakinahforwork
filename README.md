@@ -2,9 +2,9 @@
 
 **About Me** :
 
-I'm a Computer Science (Networking) graduate returning to the IT field. After running my own business for 7 years, I explored diverse areas of tech, including web, mobile app, and game development, to find where my strengths fit best. 
+I'm a Computer Science (Networking) graduate returning to the IT field. Over 7 years of running my own business, I spent my free time exploring web, mobile, and game development. Eventually discovering my strongest fit in IT infrastructure and systems administration.
 
-That journey led me to IT support, combining real-world problem-solving and client communication with hands-on troubleshooting. I'm currently building enterprise readiness through Windows Server, Active Directory, and Linux homelabs alongside Google IT Support and Cisco Networking Academy training.
+That journey led me to IT support, where I combine real-world problem-solving and client communication with hands-on troubleshooting. I'm currently building enterprise readiness through Windows Server, Active Directory, and Linux homelabs alongside Google IT Support and Cisco Networking Academy training.
 
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20(Klang%20Valley%20or%20Kulim,Kedah)-2ea44f?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/sakinah-tajuddin-b821a9271/)
