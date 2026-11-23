@@ -19,7 +19,7 @@ That journey led me to IT support, where I combine real-world problem-solving an
 | :--- | :--- |
 | **Systems Administration** | Windows Server (2025), Active Directory (AD DS), Group Policy (GPO), DNS (ADIDNS & Reverse Lookup/PTR), DHCP, User & Permission Management |
 | **Networking** | TCP/IP, IPv4 Subnetting, VLANs, Routing & Switching, Cisco Packet Tracer, Wireshark, DNS/DHCP Troubleshooting |
-| **Operating Systems** | Windows 10/11, Windows Server, Ubuntu Linux (CLI, permissions, service management) |
+| **Operating Systems** | Windows 11, Windows Server, Ubuntu Linux (CLI, permissions, service management) |
 | **Virtualization & Labs** | Hyper-V, VMware, Multi-VM Network Topologies, Snapshot & Lab Documentation |
 | **IT Support & Operations** | Hardware/Software Troubleshooting, Ticketing Workflows, Remote Support, Customer Service & Incident Resolution |
 | **Scripting** | Python, Bash, PowerShell (Basics) |
