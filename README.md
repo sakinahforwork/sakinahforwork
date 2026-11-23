@@ -1,4 +1,4 @@
-### Hi there, I'm Sakinah 👋
+## Hi there, I'm Sakinah 👋
 
 **About Me** :
 
@@ -13,7 +13,7 @@ That journey led me to IT support, where I combine real-world problem-solving an
 
 ---
 
-### 🛠️ Technical Skills & Core Competencies
+## 🛠️ Technical Skills & Core Competencies
 
 | Domain | Technologies & Hands-On Experience |
 | :--- | :--- |
@@ -26,14 +26,14 @@ That journey led me to IT support, where I combine real-world problem-solving an
 
 ---
 
-### 📜 Education & Certifications
+## 📜 Education & Certifications
 
 * **Bachelor degree of Computer Science (Networking) with Honours - Universiti Teknikal Malaysia Melaka (UTeM)(2019)**
 * **Google IT Support Professional Certificate - Coursera (2026)** 
   
 ---
 
-### 📚 Favorite Learning References
+## 📚 Favorite Learning References
 
 * **Cisco Network Academy** *(https://www.netacad.com/)*
 * **Sys Desks** *(https://sysdesks.com/)*
@@ -45,7 +45,7 @@ That journey led me to IT support, where I combine real-world problem-solving an
 
 ---
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 
 ![Windows](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -56,6 +56,14 @@ That journey led me to IT support, where I combine real-world problem-solving an
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+---
+
+## 💻 Homelab Projects
+
+1. [Windows Server 2025 and Administration](https://github.com/sakinahforwork/Windows-Server-2025-and-Administration) - Active Directory, DNS, DHCP, and Group Policy lab documentation. 🪟
+2. Cisco Packet Tracer & Basic Networking 🌐
+3. Linux (Ubuntu Server) 🖥️
+4. Python Mini Project 🐍
 
 ---
 
@@ -69,10 +77,3 @@ My home lab is built on a dedicated virtualization host to simulate enterprise I
 - **Networking & Security Tools:** pfSense (virtual firewall/router), Cisco Packet Tracer, Wireshark
 
 ---
-
-### 💻 Homelab Projects
-
-1. [Windows Server 2025 and Administration](https://github.com/sakinahforwork/Windows-Server-2025-and-Administration) - Active Directory, DNS, DHCP, and Group Policy lab documentation. 🪟
-2. Cisco Packet Tracer & Basic Networking 🌐
-3. Linux (Ubuntu Server) 🖥️
-4. Python Mini Project 🐍
