@@ -1,15 +1,13 @@
-# IT-Homelab-Portfolio
-Hands-on IT infrastructure, Windows/Linux systems administration, Networking and Python homelab documentation
-
 ### Hi there, I'm Sakinah 👋
 
-**Computer Science (Networking) Graduate**
+**About Me** :
 
-Focused on enterprise IT infrastructure, Windows Server administration, network troubleshooting, and hands-on virtualization labs. Currently seeking daytime IT Support, Junior System Administrator, or Network Administrator opportunities in the Klang Valley.
+I'm a Computer Science (Networking) graduate returning to the IT field. After running my own business for 7 years, I explored diverse areas of tech, including web, mobile app, and game development, to find where my strengths fit best. That journey led me to IT support, combining real-world problem-solving and client communication with hands-on troubleshooting. Currently building enterprise readiness through Windows Server, Active Directory, and Linux homelabs alongside Google IT Support and Cisco Networking Academy training.
 
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20(Klang%20Valley)-2ea44f?style=flat-square)](#)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20(Klang%20Valley%20or%20Kulim,Kedah)-2ea44f?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/sakinah-tajuddin-b821a9271/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sakinahforwork@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/sakinah-tajuddin.89224ed3/badges/credly)
 
 ---
 
@@ -17,12 +15,12 @@ Focused on enterprise IT infrastructure, Windows Server administration, network 
 
 | Domain | Technologies & Hands-On Experience |
 | :--- | :--- |
-| **Systems Administration** | Windows Server (2019/2022), Active Directory (AD DS), Group Policy (GPO), DNS (ADIDNS & Reverse Lookup/PTR), DHCP, User & Permission Management |
+| **Systems Administration** | Windows Server (2025), Active Directory (AD DS), Group Policy (GPO), DNS (ADIDNS & Reverse Lookup/PTR), DHCP, User & Permission Management |
 | **Networking** | TCP/IP, IPv4 Subnetting, VLANs, Routing & Switching, Cisco Packet Tracer, Wireshark, DNS/DHCP Troubleshooting |
 | **Operating Systems** | Windows 10/11, Windows Server, Ubuntu Linux (CLI, permissions, service management) |
-| **Virtualization & Labs** | Oracle VM VirtualBox, Multi-VM Network Topologies, Snapshot & Lab Documentation |
+| **Virtualization & Labs** | Hyper-V, VMware, Multi-VM Network Topologies, Snapshot & Lab Documentation |
 | **IT Support & Operations** | Hardware/Software Troubleshooting, Ticketing Workflows, Remote Support, Customer Service & Incident Resolution |
-| **Web & Scripting** | HTML5, CSS3, JavaScript, Bash, PowerShell (Basics) |
+| **Scripting** | Python, Bash, PowerShell (Basics) |
 
 ---
 
@@ -51,6 +49,9 @@ I maintain a self-hosted virtualized lab in **Hyper-V** and **Cisco Packet Trace
 ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 ---
