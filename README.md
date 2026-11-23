@@ -2,7 +2,7 @@
 
 **About Me** :
 
-I'm a Computer Science (Networking) graduate returning to the IT field. Over 7 years of running my own business, I spent my free time exploring web, mobile, and game development. Eventually discovering my strongest fit in IT infrastructure and systems administration.
+I'm a Computer Science (Networking) graduate returning to the IT field. Over 7 years, I spent my free time exploring web, mobile, and game development. Eventually discovering my strongest fit in IT infrastructure and systems administration.
 
 That journey led me to IT support, where I combine real-world problem-solving and client communication with hands-on troubleshooting. I'm currently building enterprise readiness through Windows Server, Active Directory, and Linux homelabs alongside Google IT Support and Cisco Networking Academy training.
 
@@ -39,9 +39,17 @@ My home lab is built on a dedicated virtualization host to simulate enterprise I
 
 ### 📜 Education & Certifications
 
-* **Bachelor of Computer Science (Networking)**
-* **Google IT Support Professional Certificate** *(Completed)*
-* **Cisco Network Academy** *(In Progress)*
+* **Bachelor degree of Computer Science (Networking) with Honours - Universiti Teknikal Malaysia Melaka (UTeM)(2019)**
+* **Google IT Support Professional Certificate - Coursera (2026)** 
+  
+---
+
+### 📚 Additional Learning Resources
+
+* **Cisco Network Academy** *(https://www.netacad.com/)*
+* **Sys Desks** *(https://sysdesks.com/)*
+* **ThisIsanITSupportGroup** *(https://thisisanitsupportgroup.com/)*
+* **IBM SkillsBuild** *(https://skillsbuild.org/)*
 
 ---
 
