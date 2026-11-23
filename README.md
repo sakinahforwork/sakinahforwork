@@ -1,4 +1,4 @@
-## Hi there, I'm Sakinah 👋
+## Hi, I'm Sakinah 👋
 
 **About Me** :
 
