@@ -46,7 +46,7 @@ That journey led me to IT support, where I combine real-world problem-solving an
 ## 💻 Homelab Projects
 
 1. [Windows Server 2025 and Administration](https://github.com/sakinahforwork/Windows-Server-2025-and-Administration) - Active Directory, DNS, DHCP, and Group Policy lab documentation. 🪟
-2. Cisco Packet Tracer & Basic Networking 🌐
+2. [Cisco Packet Tracer & Basic Networking](https://github.com/sakinahforwork/Cisco-Packet-Tracer-Basic-Networking-) 🌐
 3. Linux (Ubuntu Server) 🖥️
 4. Python Mini Project 🐍
 
