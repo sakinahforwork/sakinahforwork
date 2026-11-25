@@ -1,6 +1,6 @@
 ## Hi, I'm Sakinah 👋
 
-I'm a Computer Science (Networking) graduate returning to the IT field. Over 7 years, I spent my free time exploring web, mobile, and game development. Eventually discovering my strongest fit in IT infrastructure and systems administration.
+I'm a Computer Science (Networking) graduate returning to the IT field. Over 7 years, I spent my free time exploring networking, web, mobile, and game development. Eventually discovering my strongest fit in IT infrastructure and systems administration.
 
 That journey led me to IT support, where I combine real-world problem-solving and client communication with hands-on troubleshooting. I'm currently building enterprise readiness through Windows Server, Active Directory, and Linux homelabs alongside Google IT Support and Cisco Networking Academy training.
 
